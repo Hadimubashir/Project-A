@@ -26,10 +26,4 @@ A containerized voting application built and deployed using Docker with a five-c
 - Secure and isolated services for modular development
 - Real-time updates and responsive UI for an engaging user experience
 
-## 📦 Getting Started
-To run this project locally, ensure you have Docker and Docker Compose installed.
 
-```bash
-git clone https://github.com/your-username/voting-app-docker.git
-cd voting-app-docker
-docker-compose up
